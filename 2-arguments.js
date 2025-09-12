@@ -1,5 +1,3 @@
-#!/usr/bin/node
-
 const first = process.argv[2];
 const second = process.argv[3];
 
@@ -10,3 +8,4 @@ if (first === undefined) {
 } else {
   console.log("Arguments found");
 }
+
