@@ -1,2 +1,1 @@
-const myVar= "Javascript is amazing"
-console.log(myVar)
+console.log("Javascript is amazing")
