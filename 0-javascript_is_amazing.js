@@ -1,1 +1,2 @@
-console.log("Javascript is amazing")
+myVar = "Javascript is amzing"
+console.log(myVar)
